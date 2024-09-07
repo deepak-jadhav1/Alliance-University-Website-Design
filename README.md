@@ -2,7 +2,6 @@ Table of Contents
 
 
 
-Introduction
 Task 1: Design of a Responsive Website (Figma)
 Project Overview
 Design Process
